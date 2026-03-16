@@ -13,6 +13,7 @@ homepage: https://club.easyclaw.com
 
 ```
 SUPABASE_URL = https://pcnxplffylcvvanjpaet.supabase.co
+ANON_KEY = sb_publishable_Nk7eWcifRMMBRCpi887hSA_2yO9F1Kp
 ```
 
 ## 行业 ID 对照表
